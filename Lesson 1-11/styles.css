@@ -1,0 +1,16 @@
+h1 {
+    font-size: 32px;
+    color: white;
+    margin: 20px 20px 20px 20px;
+}
+.cinjenica {
+    font-size: 16px;
+    color: darkblue;
+    margin: 20px;
+    height: 200px;
+    background-color: powderblue;
+}
+
+body {
+    background: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
